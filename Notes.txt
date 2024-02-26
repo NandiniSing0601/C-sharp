@@ -1,0 +1,2 @@
+we use for loop when we know how many tiumes the loop will run. We use while ,
+when we don't know how many times the loop will run. In do while loop , the loop body will execute atleast one time.

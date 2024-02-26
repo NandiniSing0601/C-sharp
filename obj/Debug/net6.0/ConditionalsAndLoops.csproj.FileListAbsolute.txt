@@ -1,0 +1,15 @@
+D:\C#\Conditionals&Loops\ConditionalsAndLoops\bin\Debug\net6.0\ConditionalsAndLoops.exe
+D:\C#\Conditionals&Loops\ConditionalsAndLoops\bin\Debug\net6.0\ConditionalsAndLoops.deps.json
+D:\C#\Conditionals&Loops\ConditionalsAndLoops\bin\Debug\net6.0\ConditionalsAndLoops.runtimeconfig.json
+D:\C#\Conditionals&Loops\ConditionalsAndLoops\bin\Debug\net6.0\ConditionalsAndLoops.dll
+D:\C#\Conditionals&Loops\ConditionalsAndLoops\bin\Debug\net6.0\ConditionalsAndLoops.pdb
+D:\C#\Conditionals&Loops\ConditionalsAndLoops\obj\Debug\net6.0\ConditionalsAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Conditionals&Loops\ConditionalsAndLoops\obj\Debug\net6.0\ConditionalsAndLoops.AssemblyInfoInputs.cache
+D:\C#\Conditionals&Loops\ConditionalsAndLoops\obj\Debug\net6.0\ConditionalsAndLoops.AssemblyInfo.cs
+D:\C#\Conditionals&Loops\ConditionalsAndLoops\obj\Debug\net6.0\ConditionalsAndLoops.csproj.CoreCompileInputs.cache
+D:\C#\Conditionals&Loops\ConditionalsAndLoops\obj\Debug\net6.0\ConditionalsAndLoops.sourcelink.json
+D:\C#\Conditionals&Loops\ConditionalsAndLoops\obj\Debug\net6.0\ConditionalsAndLoops.dll
+D:\C#\Conditionals&Loops\ConditionalsAndLoops\obj\Debug\net6.0\refint\ConditionalsAndLoops.dll
+D:\C#\Conditionals&Loops\ConditionalsAndLoops\obj\Debug\net6.0\ConditionalsAndLoops.pdb
+D:\C#\Conditionals&Loops\ConditionalsAndLoops\obj\Debug\net6.0\ConditionalsAndLoops.genruntimeconfig.cache
+D:\C#\Conditionals&Loops\ConditionalsAndLoops\obj\Debug\net6.0\ref\ConditionalsAndLoops.dll
